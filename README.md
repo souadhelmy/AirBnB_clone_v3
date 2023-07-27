@@ -1,6 +1,5 @@
 # AirBnB Clone - The Console
 
-[![CodeStyle](https://github.com/B3zaleel/AirBnB_clone_v3/actions/workflows/codestyle.yml/badge.svg)](https://github.com/B3zaleel/AirBnB_clone_v3/actions/workflows/codestyle.yml)
 
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -12,27 +11,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
-
-* [Environment](#environment)
-* [Installation](#installation)
-* [File Descriptions](#file-descriptions)
-* [Usage](#usage)
-* [Examples of use](#examples-of-use)
-* [Bugs](#bugs)
-* [Authors](#authors)
-* [License](#license)
-
 ## Environment
 
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
-
-## Installation
-
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
-* Access AirBnb directory: `cd AirBnB_clone`
-* Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
 ## File Descriptions
 
@@ -159,19 +140,3 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 ** no instance found **
 (hbnb) quit
-```
-
-## Bugs
-
-No known bugs at this time.
-
-## Authors
-
-+ Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
-+ Bezaleel Olakunori - [GitHub](https://github.com/B3zaleel) / [Twitter](https://twitter.com/bezxx_chihuahua)
-+ Dismas Kipchumba - [GitHub](https://github.com/dizzysnazzy) / [Twitter](https://twitter.com/dizzy_snazzy)
-+ Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-+ Joann Vuong
-## License
-
-Public Domain. No copy write protection.
