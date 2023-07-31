@@ -4,7 +4,8 @@
 # pip install pep8==1.7.0
 
 ## Code tests
-# Runs the unit tests for this project in both the interactive and non-interactive modes
+# Runs the unit tests for this project in both the
+# interactive and non-interactive modes
 echo -e "\e[104m Running Unit Tests [FileStorage] \e[0m\e[33m"
 env HBNB_MYSQL_USER="" \
     HBNB_MYSQL_HOST="" \
